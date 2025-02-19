@@ -1,0 +1,20 @@
+.home{
+    background:#F5FCFF;
+}
+.wordmark{
+    color:#5E3BEE;
+}
+.home-button{
+    border: 1px solid #5E3BEE;
+}
+.photo-container{ 
+  background-color:rgb(172 207 228);
+}
+.photo-container-wrapper{
+    border: 3px solid #8174b2;
+}
+.photo-absolute{
+    width: 121px;
+    margin-left: -121px;
+    margin-top: 67px;
+}
